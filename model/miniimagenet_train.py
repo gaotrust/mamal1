@@ -10,6 +10,9 @@ import time
 from meta import Meta
 
 
+print("123")
+
+
 def mean_confidence_interval(accs, confidence=0.95):
     n = accs.shape[0]
     m, se = np.mean(accs), scipy.stats.sem(accs)

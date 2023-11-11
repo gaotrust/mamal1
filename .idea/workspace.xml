@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="919b6354-0fa8-436d-85b4-e5c60c287e83" name="Changes" comment="" />
+    <list default="true" id="919b6354-0fa8-436d-85b4-e5c60c287e83" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/miniimagenet_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/miniimagenet_train.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "E:/SoftStudy/Python/code/project1/metalearning/metalearning/MAML1/mamal",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +54,7 @@
       <workItem from="1699623828421" duration="478000" />
       <workItem from="1699624310925" duration="921000" />
       <workItem from="1699664646148" duration="1739000" />
-      <workItem from="1699666779481" duration="2138000" />
+      <workItem from="1699666779481" duration="2445000" />
     </task>
     <servers />
   </component>
